@@ -19,14 +19,9 @@
 
 **RESULTS**
 
-**1. QWK Scores of AES Model**
+
 ![image](https://github.com/user-attachments/assets/a78a97cb-03ce-4545-85be-d1fda7864207)
-
-**2. RMSE Score of AES Model**
-
 ![image](https://github.com/user-attachments/assets/f661eda3-2f7e-4297-b692-c3844bee092c)
-
-**3. R² Score of AES Model**
 ![image](https://github.com/user-attachments/assets/93d22cfd-4599-401a-b471-0ec3a38308e0)
 
 
